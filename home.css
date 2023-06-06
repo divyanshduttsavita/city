@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://assets.hongkiat.com/uploads/wood-textures/brown-wood.jpg);
+}
+h1{
+    color: aliceblue;
+}
+.head{
+    color: azure;
+}
+body{
+    text-align: center;
+}
+.head{
+    font-weight: 900;
+}
